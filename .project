@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Novo_Projeto</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.dltk.core.scriptbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>TOTVS.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.totvs.tds.sdk.advpl.totvsnature</nature>
+		<nature>com.totvs.tds.sdk.advpl.totvsnature</nature>
+		<nature>br.com.totvs.tds.TotvsNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Induspeça</name>
+			<type>2</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Desktop/Induspe%C3%A7a</locationURI>
+		</link>
+		<link>
+			<name>Patch</name>
+			<type>2</type>
+			<location>C:/TOTVS 11_Carlos/Microsiga/Protheus_Data/Patch</location>
+		</link>
+		<link>
+			<name>include</name>
+			<type>2</type>
+			<location>E:/Temp/Protheus 12/Protheus/Includes</location>
+		</link>
+	</linkedResources>
+</projectDescription>

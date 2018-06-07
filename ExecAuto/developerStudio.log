@@ -1,0 +1,796 @@
+
+
+
+------------------------------------------------
+Carga do TOTVS | Developer Studio 14/08/2017 08:58:19.5819
+------------------------------------------------
+08:58:19.5819 - [INF] * ---------------------------------------------------
+08:58:19.5819 - [INF] * TOTVS | Developer Studio x86 11.2.46.201609211821
+08:58:19.5819 - [INF] *
+08:58:19.5819 - [INF] *(c) TOTVS 2010-2015 Todos os direitos reservados
+08:58:19.5819 - [INF] * ---------------------------------------------------
+08:58:19.5819 - [WAR] Servidores suportados por esta instalação
+08:58:19.5819 - [WAR] 	- 4GL Server      [7.00.101202A, 7.00.120420A, 7.00.121227P, 7.00.131227A, 7.00.150715P]
+08:58:19.5819 - [WAR] 	- Advpl Server    [7.00.101202A, 7.00.111010P, 7.00.120420A, 7.00.121227P, 7.00.131227A, 7.00.150715P]
+08:58:39.5839 - [INF] Iniciando ambiente...
+08:58:39.5839 - [INF] Servidor Adicionado:
+08:58:39.5839 - [INF] Conectando...
+08:58:42.5842 - [INF]  - 12 [ADVPL]
+08:58:44.5844 - [WAR] Erro ao conectar o servidor 12
+08:58:44.5844 - [WAR] Verifique se o servidor selecionado está ativo.
+08:58:44.5844 - [INF] Fim da inicialização
+09:21:58.2158 - [ERR] Favor selecionar o servidor e ambiente para compilação
+09:24:59.2459 - [INF] 
+Iniciando processo de compilação às 09:24:59.
+09:24:59.2459 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+09:25:02.252 - [WAR] 
+Compilando arquivo myMATA410.prw...
+09:25:03.253 - [INF] 
+09:25:03.253 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\myMATA410.prw ok.
+09:25:03.253 - [WAR] TOTVS | Developer Studio Exception: Código de autorização para compilação não informado ou inválido.
+09:25:19.2519 - [INF] 
+Iniciando processo de compilação às 09:25:19.
+09:25:19.2519 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+09:25:20.2520 - [WAR] 
+Compilando arquivo myMATA410.prw...
+09:25:20.2520 - [INF] 
+09:25:20.2520 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\myMATA410.prw ok.
+09:25:20.2520 - [WAR] TOTVS | Developer Studio Exception: Código de autorização para compilação não informado ou inválido.
+09:33:18.3318 - [INF] 
+Iniciando processo de compilação às 09:33:18.
+09:33:18.3318 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+09:33:20.3320 - [WAR] 
+Compilando arquivo myMATA410.prw...
+09:33:21.3321 - [INF] 
+09:33:21.3321 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\myMATA410.prw ok.
+09:33:21.3321 - [WAR] TOTVS | Developer Studio Exception: Código de autorização para compilação não informado ou inválido.
+09:36:54.3654 - [INF] 
+Iniciando processo de compilação às 09:36:54.
+09:36:54.3654 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+09:36:55.3655 - [WAR] 
+Compilando arquivo myMATA410.prw...
+09:36:55.3655 - [INF] 
+09:36:55.3655 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\myMATA410.prw ok.
+09:36:55.3655 - [WAR] TOTVS | Developer Studio Exception: Código de autorização para compilação não informado ou inválido.
+09:37:10.3710 - [INF] 
+Iniciando processo de compilação às 09:37:10.
+09:37:10.3710 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+09:37:11.3711 - [WAR] 
+Compilando arquivo myMATA410.prw...
+09:37:11.3711 - [INF] 
+09:37:11.3711 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\myMATA410.prw ok.
+09:37:12.3712 - [INF] ...Compilação [Ok]
+09:37:35.3735 - [INF] 
+Iniciando processo de compilação às 09:37:35.
+09:37:35.3735 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+09:37:36.3736 - [WAR] 
+Compilando arquivo myMATA410.prw...
+09:37:36.3736 - [INF] 
+09:37:36.3736 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\myMATA410.prw ok.
+09:37:36.3736 - [WAR] TOTVS | Developer Studio Exception: Código de autorização para compilação não informado ou inválido.
+09:37:48.3748 - [INF] 
+Iniciando processo de compilação às 09:37:48.
+09:37:48.3748 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+09:37:49.3749 - [WAR] 
+Compilando arquivo myMATA410.prw...
+09:37:49.3749 - [INF] 
+09:37:49.3749 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\myMATA410.prw ok.
+09:37:49.3749 - [INF] ...Compilação [Ok]
+09:38:10.3810 - [INF] Iniciando TOTVS Application
+09:38:28.3828 - [INF] Iniciando TOTVS Application
+09:38:34.3834 - [INF] 
+Iniciando processo de compilação às 09:38:34.
+09:38:34.3834 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+09:38:35.3835 - [WAR] 
+Compilando arquivo myMATA410.prw...
+09:38:35.3835 - [INF] 
+09:38:35.3835 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\myMATA410.prw ok.
+09:38:35.3835 - [INF] ...Compilação [Ok]
+09:40:09.409 - [INF] 
+Iniciando processo de compilação às 09:40:09.
+09:40:09.409 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+09:40:10.4010 - [WAR] 
+Compilando arquivo myMATA410.prw...
+09:40:11.4011 - [INF] 
+09:40:11.4011 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\myMATA410.prw ok.
+09:40:11.4011 - [WAR] TOTVS | Developer Studio Exception: Código de autorização para compilação não informado ou inválido.
+09:49:55.4955 - [INF] 
+Iniciando processo de compilação às 09:49:55.
+09:49:55.4955 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+09:49:56.4956 - [WAR] 
+Compilando arquivo myMATA410.prw...
+09:49:57.4957 - [INF] 
+09:49:57.4957 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\myMATA410.prw ok.
+09:49:57.4957 - [WAR] TOTVS | Developer Studio Exception: Código de autorização para compilação não informado ou inválido.
+09:50:20.5020 - [INF] 
+Iniciando processo de compilação às 09:50:20.
+09:50:20.5020 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+09:50:20.5020 - [WAR] 
+Compilando arquivo myMATA410.prw...
+09:50:21.5021 - [INF] 
+09:50:21.5021 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\myMATA410.prw ok.
+09:50:21.5021 - [INF] ...Compilação [Ok]
+09:50:37.5037 - [INF] Iniciando TOTVS Application
+10:02:11.211 - [INF] Versão válida encontrada para o servidor spod1094:1237 : 7.00.131227A
+10:02:18.218 - [INF] Iniciando ambiente...
+10:02:18.218 - [INF] Servidor Adicionado:
+10:02:18.218 - [INF] Conectando...
+10:02:22.222 - [INF]  - tcp [ADVPL]
+10:02:22.222 - [INF] -> Servidor Ativo: tcp
+10:02:22.222 - [INF] -> Ambiente Ativo: P118
+10:02:22.222 - [INF] Fim da inicialização
+10:03:49.349 - [INF] 
+Iniciando processo de compilação às 10:03:49.
+10:03:49.349 - [INF] Estabelecendo conexão com o servidor [12.1.17_Gustavo] e ambiente [TOTVS_v12117]...
+10:03:59.359 - [ERR] 
+It wasn´t possible to obtain exclusive access to the objects repository
+
+10:03:59.359 - [ERR] Não foi possivel obter acesso ao RPO.
+10:03:59.359 - [WAR] Motivos possíveis:
+10:03:59.359 - [WAR] - RPO encontra-se em uso por terceiros
+10:03:59.359 - [WAR] - Privilégios de acesso
+10:03:59.359 - [WAR] - Servidor deixou de responder
+10:03:59.359 - [WAR] - Ambiente inexistente
+10:08:01.81 - [INF] 
+Iniciando processo de compilação às 10:08:01.
+10:08:01.81 - [INF] Estabelecendo conexão com o servidor [12.1.17_Gustavo] e ambiente [TOTVS_v12117]...
+10:08:11.811 - [ERR] 
+It wasn´t possible to obtain exclusive access to the objects repository
+
+10:08:11.811 - [ERR] Não foi possivel obter acesso ao RPO.
+10:08:11.811 - [WAR] Motivos possíveis:
+10:08:11.811 - [WAR] - RPO encontra-se em uso por terceiros
+10:08:11.811 - [WAR] - Privilégios de acesso
+10:08:11.811 - [WAR] - Servidor deixou de responder
+10:08:11.811 - [WAR] - Ambiente inexistente
+10:09:52.952 - [INF] 
+Iniciando processo de compilação às 10:09:52.
+10:09:52.952 - [INF] Estabelecendo conexão com o servidor [12.1.17_Gustavo] e ambiente [TOTVS_v12117]...
+10:10:23.1023 - [ERR] Error start builder: IOException.
+10:10:23.1023 - [ERR] Connection reset
+10:10:23.1023 - [ERR] Não foi possivel obter acesso ao RPO.
+10:10:23.1023 - [WAR] Motivos possíveis:
+10:10:23.1023 - [WAR] - RPO encontra-se em uso por terceiros
+10:10:23.1023 - [WAR] - Privilégios de acesso
+10:10:23.1023 - [WAR] - Servidor deixou de responder
+10:10:23.1023 - [WAR] - Ambiente inexistente
+10:11:30.1130 - [ERR] Não existem arquivos válidos para serem compilados.
+10:11:36.1136 - [INF] 
+Iniciando processo de compilação às 10:11:36.
+10:11:36.1136 - [INF] Estabelecendo conexão com o servidor [12.1.17_Gustavo] e ambiente [TOTVS_v12117]...
+10:11:41.1141 - [WAR] 
+Compilando arquivo myMATA010.prw...
+10:11:41.1141 - [INF] 
+10:11:41.1141 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\myMATA010.prw ok.
+10:11:41.1141 - [INF] ...Compilação [Ok]
+10:13:10.1310 - [INF] Iniciando TOTVS Application
+10:21:54.2154 - [INF] 
+Iniciando processo de compilação às 10:21:54.
+10:21:54.2154 - [INF] Estabelecendo conexão com o servidor [12.1.17_Gustavo] e ambiente [TOTVS_v12117]...
+10:22:00.220 - [WAR] 
+Compilando arquivo myMATA010.prw...
+10:22:01.221 - [INF] 
+10:22:01.221 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\myMATA010.prw ok.
+10:22:01.221 - [INF] ...Compilação [Ok]
+10:22:03.223 - [INF] Iniciando TOTVS Application
+10:22:36.2236 - [ERR] java.io.IOException: java.io.EOFException
+10:22:36.2236 - [ERR] 	com.totvs.tds.server.connector.AbstractConnector.startDebugger(AbstractConnector.java:653)
+10:22:36.2236 - [ERR] 	com.totvs.tds.debug.model.AdvPLDebugServer.startDebugger(AdvPLDebugServer.java:145)
+10:22:36.2236 - [ERR] 	com.totvs.tds.debug.model.AdvPLDebugTarget.startDebugger(AdvPLDebugTarget.java:786)
+10:22:36.2236 - [ERR] 	com.totvs.tds.debug.launcher.AdvPLLaunchDelegate$4.run(AdvPLLaunchDelegate.java:586)
+10:22:36.2236 - [ERR] 	...
+10:22:36.2236 - [ERR] Causado por
+10:22:36.2236 - [ERR] 		null
+10:22:36.2236 - [ERR] java.io.EOFException: null
+10:22:36.2236 - [ERR] 	java.io.DataInputStream.readInt(Unknown Source)
+10:22:36.2236 - [ERR] 	com.totvs.tds.core.server.lib_comm.TMsgCliManager.ReceiveDataPack(Unknown Source)
+10:22:36.2236 - [ERR] 	com.totvs.tds.core.server.lib_comm.TMsgCliManager.ReceiveNextMsgPack(Unknown Source)
+10:22:36.2236 - [ERR] 	com.totvs.tds.core.server.lib_comm.TMsgCliManager.InternalManager(Unknown Source)
+10:22:36.2236 - [ERR] 	com.totvs.tds.core.server.lib_comm.TMsgCliManager.SendInternalMessage(Unknown Source)
+10:22:36.2236 - [ERR] 	com.totvs.tds.core.server.lib_comm.TMsgCliManager.sendMessageNotSyncronized(Unknown Source)
+10:22:36.2236 - [ERR] 	com.totvs.tds.core.server.lib_comm.TMsgCliManager.startDebugger(Unknown Source)
+10:22:36.2236 - [ERR] 	com.totvs.tds.server.connector.AbstractConnector.startDebugger(AbstractConnector.java:651)
+10:22:36.2236 - [ERR] 	com.totvs.tds.debug.model.AdvPLDebugServer.startDebugger(AdvPLDebugServer.java:145)
+10:22:36.2236 - [ERR] 	com.totvs.tds.debug.model.AdvPLDebugTarget.startDebugger(AdvPLDebugTarget.java:786)
+10:22:36.2236 - [ERR] 	com.totvs.tds.debug.launcher.AdvPLLaunchDelegate$4.run(AdvPLLaunchDelegate.java:586)
+10:22:36.2236 - [ERR] 	...
+10:22:54.2254 - [INF] Iniciando TOTVS Application
+10:28:10.2810 - [INF] 
+Iniciando processo de compilação às 10:28:10.
+10:28:10.2810 - [INF] Estabelecendo conexão com o servidor [12.1.17_Gustavo] e ambiente [TOTVS_v12117]...
+10:28:18.2818 - [WAR] 
+Compilando arquivo myMATA010.prw...
+10:28:18.2818 - [INF] 
+10:28:18.2818 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\myMATA010.prw ok.
+10:28:18.2818 - [INF] ...Compilação [Ok]
+10:28:47.2847 - [INF] Iniciando TOTVS Application
+10:30:39.3039 - [ERR] Exceção Ocorrida :  type mismatch on -  (0)
+10:30:39.3039 - [ERR] Pilha de Chamadas : 
+10:30:39.3039 - [ERR] 	FWUISEARCH.PRW (198)
+10:30:39.3039 - [ERR] 	FWUISEARCH.PRW (112)
+10:30:39.3039 - [ERR] 	 (0)
+10:30:39.3039 - [ERR] 	 (0)
+10:30:39.3039 - [ERR] 	FWAPP.PRW (674)
+10:30:39.3039 - [ERR] 	APLIB000.PRW (58)
+10:33:14.3314 - [INF] 
+Iniciando processo de compilação às 10:33:14.
+10:33:14.3314 - [INF] Estabelecendo conexão com o servidor [12.1.17_Gustavo] e ambiente [TOTVS_v12117]...
+10:33:17.3317 - [WAR] 
+Compilando arquivo myMATA010.prw...
+10:33:17.3317 - [INF] 
+10:33:17.3317 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\myMATA010.prw ok.
+10:33:17.3317 - [INF] ...Compilação [Ok]
+14:00:17.017 - [INF] 
+Iniciando processo de compilação às 14:00:17.
+14:00:17.017 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+14:00:17.017 - [WAR] 
+Compilando arquivo myMATA410.prw...
+14:00:18.018 - [INF] 
+14:00:18.018 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\myMATA410.prw ok.
+14:00:18.018 - [INF] ...Compilação [Ok]
+14:00:43.043 - [INF] Iniciando TOTVS Application
+14:00:53.053 - [INF] 
+Iniciando processo de compilação às 14:00:53.
+14:00:53.053 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+14:00:54.054 - [WAR] 
+Compilando arquivo myMATA410.prw...
+14:00:54.054 - [INF] 
+14:00:54.054 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\myMATA410.prw ok.
+14:00:54.054 - [WAR] TOTVS | Developer Studio Exception: Código de autorização para compilação não informado ou inválido.
+14:01:23.123 - [INF] 
+Iniciando processo de compilação às 14:01:23.
+14:01:23.123 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+14:01:24.124 - [WAR] 
+Compilando arquivo myMATA410.prw...
+14:01:24.124 - [INF] 
+14:01:24.124 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\myMATA410.prw ok.
+14:01:24.124 - [INF] ...Compilação [Ok]
+14:02:02.22 - [INF] Iniciando TOTVS Application
+14:13:52.1352 - [INF] 
+Iniciando processo de compilação às 14:13:52.
+14:13:52.1352 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+14:13:53.1353 - [WAR] 
+Compilando arquivo myMATA410.prw...
+14:13:53.1353 - [INF] 
+14:13:53.1353 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\myMATA410.prw ok.
+14:13:53.1353 - [INF] ...Compilação [Ok]
+14:14:35.1435 - [INF] Iniciando TOTVS Application
+14:19:58.1958 - [INF] Iniciando TOTVS Application
+14:22:09.229 - [INF] 
+Iniciando processo de compilação às 14:22:09.
+14:22:09.229 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+14:22:11.2211 - [WAR] 
+Compilando arquivo myMATA410.prw...
+14:22:11.2211 - [INF] 
+14:22:11.2211 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\myMATA410.prw ok.
+14:22:11.2211 - [INF] ...Compilação [Ok]
+14:22:23.2223 - [INF] Iniciando TOTVS Application
+14:25:02.252 - [INF] Iniciando TOTVS Application
+14:36:41.3641 - [INF] tcp: Reconectando servidor ....
+14:36:42.3642 - [INF] tcp: Servidor reconectado.
+14:36:42.3642 - [INF] Iniciando TOTVS Application
+14:45:41.4541 - [INF] Iniciando TOTVS Application
+14:54:47.5447 - [INF] Iniciando ambiente...
+14:54:47.5447 - [INF] Servidores Adicionados:
+14:54:47.5447 - [INF] Conectando...
+14:54:47.5447 - [INF]  - tcp [ADVPL]
+14:54:47.5447 - [INF] -> Servidor Ativo: tcp
+14:54:47.5447 - [INF] -> Ambiente Ativo: P118
+14:54:51.5451 - [INF]  - 12.1.17_Gustavo [ADVPL]
+14:54:51.5451 - [INF] Fim da inicialização
+15:00:52.052 - [INF] Iniciando ambiente...
+15:00:52.052 - [INF] Servidores Adicionados:
+15:00:52.052 - [INF] Conectando...
+15:00:52.052 - [INF]  - tcp [ADVPL]
+15:00:52.052 - [INF] -> Servidor Ativo: tcp
+15:00:52.052 - [INF] -> Ambiente Ativo: P118
+15:00:56.056 - [INF]  - 12.1.17_Gustavo [ADVPL]
+15:00:56.056 - [INF] Fim da inicialização
+15:21:28.2128 - [INF] 
+Iniciando processo de compilação às 15:21:28.
+15:21:28.2128 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+15:21:32.2132 - [WAR] 
+Compilando arquivo myMATA410.prw...
+15:21:32.2132 - [INF] 
+15:21:32.2132 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\myMATA410.prw ok.
+15:21:32.2132 - [INF] ...Compilação [Ok]
+15:22:19.2219 - [INF] 
+Iniciando processo de compilação às 15:22:19.
+15:22:19.2219 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+15:22:20.2220 - [WAR] 
+Compilando arquivo MTA410.prw...
+15:22:20.2220 - [INF] 
+15:22:20.2220 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\Ponta_de_entradas\MTA410.prw ok.
+15:22:20.2220 - [INF] ...Compilação [Ok]
+15:32:38.3238 - [INF] Iniciando TOTVS Application
+15:40:57.4057 - [INF] Iniciando ambiente...
+15:40:57.4057 - [INF] Servidor Adicionado:
+15:40:57.4057 - [INF] Conectando...
+15:40:57.4057 - [INF]  - tcp [ADVPL]
+15:40:58.4058 - [WAR] Erro ao conectar o servidor tcp
+15:40:58.4058 - [WAR] Verifique se o servidor selecionado está ativo.
+15:40:58.4058 - [INF] Fim da inicialização
+15:41:52.4152 - [INF] 
+Iniciando processo de compilação às 15:41:52.
+15:41:52.4152 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+15:41:53.4153 - [WAR] 
+Compilando arquivo myMATA410.prw...
+15:41:53.4153 - [INF] 
+15:41:53.4153 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\myMATA410.prw ok.
+15:41:53.4153 - [INF] ...Compilação [Ok]
+15:41:58.4158 - [INF] 
+Iniciando processo de compilação às 15:41:58.
+15:41:58.4158 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+15:41:59.4159 - [WAR] 
+Compilando arquivo MTA410.prw...
+15:41:59.4159 - [INF] 
+15:41:59.4159 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\Ponta_de_entradas\MTA410.prw ok.
+15:41:59.4159 - [INF] ...Compilação [Ok]
+15:48:07.487 - [INF] Iniciando TOTVS Application
+15:57:38.5738 - [INF] Iniciando ambiente...
+15:57:38.5738 - [INF] Servidor Adicionado:
+15:57:38.5738 - [INF] Conectando...
+15:57:38.5738 - [INF]  - tcp [ADVPL]
+15:57:38.5738 - [INF] -> Servidor Ativo: tcp
+15:57:38.5738 - [INF] -> Ambiente Ativo: P118
+15:57:38.5738 - [INF] Fim da inicialização
+15:58:39.5839 - [INF] Iniciando TOTVS Application
+16:25:49.2549 - [INF] 
+Iniciando processo de compilação às 16:25:49.
+16:25:49.2549 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+16:25:51.2551 - [WAR] 
+Compilando arquivo MA650BUT.prw...
+16:25:51.2551 - [INF] 
+16:25:51.2551 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\Ponta_de_entradas\MA650BUT.prw ok.
+16:25:51.2551 - [INF] ...Compilação [Ok]
+16:26:51.2651 - [INF] 
+Iniciando processo de compilação às 16:26:51.
+16:26:51.2651 - [INF] Estabelecendo conexão com o servidor [12] e ambiente [P1216]...
+16:26:53.2653 - [WAR] 
+Compilando arquivo MA650BUT.prw...
+16:26:53.2653 - [INF] 
+16:26:53.2653 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\Ponta_de_entradas\MA650BUT.prw ok.
+16:26:53.2653 - [INF] ...Compilação [Ok]
+16:26:59.2659 - [INF] 
+Iniciando processo de compilação às 16:26:59.
+16:26:59.2659 - [INF] Estabelecendo conexão com o servidor [12] e ambiente [P1216]...
+16:27:01.271 - [WAR] 
+Compilando arquivo SrvCrystal.prw...
+16:27:01.271 - [INF] 
+16:27:01.271 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\Relatorios\SrvCrystal.prw ok.
+16:27:01.271 - [INF] ...Compilação [Ok]
+09:06:52.652 - [INF] Iniciando ambiente...
+09:06:53.653 - [INF] Servidor Adicionado:
+09:06:53.653 - [INF] Conectando...
+09:06:53.653 - [INF]  - 12 [ADVPL]
+09:06:54.654 - [WAR] Erro ao conectar o servidor 12
+09:06:54.654 - [WAR] Verifique se o servidor selecionado está ativo.
+09:06:54.654 - [INF] Fim da inicialização
+09:30:16.3016 - [INF] Reconectando servidor 12....
+09:30:17.3017 - [ERR] Error ao tentar conectar no servidor. Servidor pode estar off-line.
+09:33:15.3315 - [INF] 
+Iniciando processo de compilação às 09:33:15.
+09:33:15.3315 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+09:33:16.3316 - [WAR] 
+Compilando arquivo MyMATA410a.prw...
+09:33:17.3317 - [INF] 
+09:33:17.3317 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\MyMATA410a.prw ok.
+09:33:17.3317 - [ERR] 
+09:33:17.3317 - [ERR] appre0.prw(-1)   C2003 Syntax Error
+09:34:05.345 - [INF] 
+Iniciando processo de compilação às 09:34:05.
+09:34:05.345 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+09:34:06.346 - [WAR] 
+Compilando arquivo MyMATA410a.prw...
+09:34:06.346 - [INF] 
+09:34:06.346 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\MyMATA410a.prw ok.
+09:34:06.346 - [ERR] 
+09:34:06.346 - [ERR] appre0.prw(-1)   C2003 Syntax Error
+09:35:36.3536 - [INF] 
+Iniciando processo de compilação às 09:35:36.
+09:35:36.3536 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+09:35:37.3537 - [WAR] 
+Compilando arquivo MyMATA410a.prw...
+09:35:37.3537 - [INF] 
+09:35:37.3537 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\MyMATA410a.prw ok.
+09:35:37.3537 - [ERR] 
+09:35:37.3537 - [ERR] appre0.prw(-1)   C2003 Syntax Error
+09:37:16.3716 - [INF] 
+Iniciando processo de compilação às 09:37:16.
+09:37:16.3716 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+09:37:17.3717 - [WAR] 
+Compilando arquivo MyMATA410a.prw...
+09:37:17.3717 - [INF] 
+09:37:17.3717 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\MyMATA410a.prw ok.
+09:37:17.3717 - [ERR] 
+Duplicated function U_MYMATA410A (found in MYMATA410.PRW) :5
+
+09:37:57.3757 - [WAR] Os fontes nao foram removidos removidos do ambiente P118. Verifique se ha permissoes suficientes para esse procedimento
+09:38:01.381 - [INF] 
+Iniciando processo de compilação às 09:38:01.
+09:38:01.381 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+09:38:01.381 - [WAR] 
+Compilando arquivo MyMATA410a.prw...
+09:38:02.382 - [INF] 
+09:38:02.382 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\MyMATA410a.prw ok.
+09:38:02.382 - [ERR] 
+Duplicated function U_MYMATA410A (found in MYMATA410.PRW) :5
+
+09:38:42.3842 - [INF] 
+Iniciando processo de compilação às 09:38:42.
+09:38:42.3842 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+09:38:43.3843 - [WAR] 
+Compilando arquivo MyMATA410a.prw...
+09:38:43.3843 - [INF] 
+09:38:43.3843 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\MyMATA410a.prw ok.
+09:38:43.3843 - [INF] ...Compilação [Ok]
+09:45:05.455 - [INF] Iniciando TOTVS Application
+09:52:31.5231 - [INF] 
+Iniciando processo de compilação às 09:52:31.
+09:52:31.5231 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+09:53:21.5321 - [ERR] 
+It wasn´t possible to obtain exclusive access to the objects repository
+
+09:53:21.5321 - [ERR] Não foi possivel obter acesso ao RPO.
+09:53:21.5321 - [WAR] Motivos possíveis:
+09:53:21.5321 - [WAR] - RPO encontra-se em uso por terceiros
+09:53:21.5321 - [WAR] - Privilégios de acesso
+09:53:21.5321 - [WAR] - Servidor deixou de responder
+09:53:21.5321 - [WAR] - Ambiente inexistente
+09:54:16.5416 - [INF] 
+Iniciando processo de compilação às 09:54:16.
+09:54:16.5416 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+09:54:40.5440 - [ERR] Error start builder: IOException.
+09:54:40.5440 - [ERR] Connection reset
+09:54:40.5440 - [ERR] Não foi possivel obter acesso ao RPO.
+09:54:40.5440 - [WAR] Motivos possíveis:
+09:54:40.5440 - [WAR] - RPO encontra-se em uso por terceiros
+09:54:40.5440 - [INF] Iniciando ambiente...
+09:54:40.5440 - [INF] Servidor Adicionado:
+09:54:40.5440 - [INF] Conectando...
+09:54:40.5440 - [WAR] - Privilégios de acesso
+09:54:40.5440 - [WAR] - Servidor deixou de responder
+09:54:40.5440 - [WAR] - Ambiente inexistente
+09:54:40.5440 - [INF]  - tcp [ADVPL]
+09:54:41.5441 - [WAR] Erro ao conectar o servidor tcp
+09:54:41.5441 - [WAR] Verifique se o servidor selecionado está ativo.
+09:54:41.5441 - [INF] Fim da inicialização
+09:56:01.561 - [INF] 
+Iniciando processo de compilação às 09:56:01.
+09:56:01.561 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+09:56:02.562 - [WAR] 
+Compilando arquivo MyMATA410a.prw...
+09:56:02.562 - [INF] 
+09:56:02.562 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\MyMATA410a.prw ok.
+09:56:02.562 - [INF] ...Compilação [Ok]
+09:59:14.5914 - [INF] Iniciando TOTVS Application
+09:59:30.5930 - [INF] Iniciando TOTVS Application
+10:20:23.2023 - [INF] 
+Iniciando processo de compilação às 10:20:23.
+10:20:23.2023 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+10:21:13.2113 - [ERR] 
+It wasn´t possible to obtain exclusive access to the objects repository
+
+10:21:13.2113 - [ERR] Não foi possivel obter acesso ao RPO.
+10:21:13.2113 - [WAR] Motivos possíveis:
+10:21:13.2113 - [WAR] - RPO encontra-se em uso por terceiros
+10:21:13.2113 - [WAR] - Privilégios de acesso
+10:21:13.2113 - [WAR] - Servidor deixou de responder
+10:21:13.2113 - [WAR] - Ambiente inexistente
+10:21:56.2156 - [INF] Iniciando ambiente...
+10:21:56.2156 - [INF] Servidor Adicionado:
+10:21:56.2156 - [INF] Conectando...
+10:21:56.2156 - [INF]  - tcp [ADVPL]
+10:21:56.2156 - [INF] -> Servidor Ativo: tcp
+10:21:56.2156 - [INF] -> Ambiente Ativo: P118
+10:21:56.2156 - [INF] Fim da inicialização
+10:32:01.321 - [INF] Iniciando ambiente...
+10:32:01.321 - [INF] Servidor Adicionado:
+10:32:01.321 - [INF] Conectando...
+10:32:01.321 - [INF]  - tcp [ADVPL]
+10:32:02.322 - [WAR] Erro ao conectar o servidor tcp
+10:32:02.322 - [WAR] Verifique se o servidor selecionado está ativo.
+10:32:02.322 - [INF] Fim da inicialização
+10:50:27.5027 - [INF] 
+Iniciando processo de compilação às 10:50:27.
+10:50:27.5027 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+10:50:28.5028 - [WAR] 
+Compilando arquivo MyMATA410a.prw...
+10:50:28.5028 - [INF] 
+10:50:28.5028 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\MyMATA410a.prw ok.
+10:50:28.5028 - [INF] ...Compilação [Ok]
+10:51:00.510 - [INF] 
+Iniciando processo de compilação às 10:51:00.
+10:51:00.510 - [INF] Estabelecendo conexão com o servidor [tcp] e ambiente [P118]...
+10:51:01.511 - [WAR] 
+Compilando arquivo MyMATA410a.prw...
+10:51:01.511 - [INF] 
+10:51:01.511 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\ExecAuto\MyMATA410a.prw ok.
+10:51:01.511 - [INF] ...Compilação [Ok]
+11:22:21.2221 - [INF] Iniciando ambiente...
+11:22:21.2221 - [INF] Servidor Adicionado:
+11:22:21.2221 - [INF] Conectando...
+11:22:21.2221 - [INF]  - tcp [ADVPL]
+11:22:22.2222 - [WAR] Erro ao conectar o servidor tcp
+11:22:22.2222 - [WAR] Verifique se o servidor selecionado está ativo.
+11:22:22.2222 - [INF] Fim da inicialização
+11:30:27.3027 - [INF] 
+Iniciando processo de compilação às 11:30:27.
+11:30:27.3027 - [INF] Estabelecendo conexão com o servidor [12] e ambiente [P1216]...
+11:30:29.3029 - [WAR] 
+Compilando arquivo MyMVCMATA020.prw...
+11:30:29.3029 - [INF] 
+11:30:29.3029 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\MVC\MyMVCMATA020.prw ok.
+11:30:29.3029 - [WAR] 
+MYMVCMATA020.PRW(7) warning W0003 Local variable PARAMIXB never used
+MYMVCMATA020.PRW(98) warning W0003 Local variable OMODELXDET never used
+11:30:29.3029 - [INF] ...Compilação [Ok]
+11:49:33.4933 - [ERR] Não foi possível conectar ao servidor. Verifique a conexão.
+11:50:32.5032 - [ERR] Não foi possível conectar ao servidor. Verifique a conexão.
+11:52:06.526 - [ERR] Não foi possível conectar ao servidor. Verifique a conexão.
+11:54:08.548 - [INF] Versão válida encontrada para o servidor spod3251:1234 : 7.00.131227A
+11:54:15.5415 - [INF] Iniciando ambiente...
+11:54:15.5415 - [INF] Conectando...
+11:54:15.5415 - [INF] Fim da inicialização
+11:55:32.5532 - [INF] 
+Iniciando processo de compilação às 11:55:32.
+11:55:32.5532 - [INF] Estabelecendo conexão com o servidor [P11gil] e ambiente [P11]...
+11:55:33.5533 - [WAR] 
+Compilando arquivo MyMVCMATA131.prw...
+11:55:33.5533 - [INF] 
+11:55:33.5533 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\MVC\MyMVCMATA131.prw ok.
+11:55:33.5533 - [ERR] 
+Duplicated function U_TESTEX (found in PONTOFATA300.PRW) :92
+
+11:56:01.561 - [INF] 
+Iniciando processo de compilação às 11:56:01.
+11:56:01.561 - [INF] Estabelecendo conexão com o servidor [P11gil] e ambiente [P11]...
+11:56:01.561 - [WAR] 
+Compilando arquivo MyMVCMATA131.prw...
+11:56:02.562 - [INF] 
+11:56:02.562 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\MVC\MyMVCMATA131.prw ok.
+11:56:02.562 - [INF] ...Compilação [Ok]
+11:57:34.5734 - [INF] Iniciando TOTVS Application
+13:35:43.3543 - [INF] 
+Iniciando processo de compilação às 13:35:43.
+13:35:43.3543 - [INF] Estabelecendo conexão com o servidor [P11gil] e ambiente [P11]...
+13:35:49.3549 - [WAR] 
+Compilando arquivo MyMVCMATA131.prw...
+13:35:49.3549 - [INF] 
+13:35:49.3549 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\MVC\MyMVCMATA131.prw ok.
+13:35:49.3549 - [INF] ...Compilação [Ok]
+13:36:36.3636 - [INF] Iniciando TOTVS Application
+13:58:26.5826 - [INF] Iniciando ambiente...
+13:58:26.5826 - [INF] Servidor Adicionado:
+13:58:26.5826 - [INF] Conectando...
+13:58:26.5826 - [INF] Fim da inicialização
+14:26:49.2649 - [INF] 
+Iniciando processo de compilação às 14:26:49.
+14:26:49.2649 - [INF] Estabelecendo conexão com o servidor [12] e ambiente [P1216]...
+14:26:51.2651 - [WAR] 
+Compilando arquivo Myprinter.prw...
+14:26:51.2651 - [INF] 
+14:26:51.2651 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\Relatorios\Myprinter.prw ok.
+14:26:51.2651 - [INF] ...Compilação [Ok]
+15:04:11.411 - [INF] 
+Iniciando processo de compilação às 15:04:11.
+15:04:11.411 - [INF] Estabelecendo conexão com o servidor [12] e ambiente [P1216]...
+15:04:14.414 - [WAR] 
+Compilando arquivo Myprinter.prw...
+15:04:14.414 - [INF] 
+15:04:14.414 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\Relatorios\Myprinter.prw ok.
+15:04:14.414 - [INF] ...Compilação [Ok]
+15:24:44.2444 - [INF] Iniciando TOTVS Application
+15:32:59.3259 - [INF] 
+Iniciando processo de compilação às 15:32:59.
+15:32:59.3259 - [INF] Estabelecendo conexão com o servidor [12] e ambiente [P1216]...
+15:33:05.335 - [WAR] 
+Compilando arquivo Myprinter.prw...
+15:33:05.335 - [INF] 
+15:33:05.335 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\Relatorios\Myprinter.prw ok.
+15:33:05.335 - [INF] ...Compilação [Ok]
+15:40:17.4017 - [INF] 
+Iniciando processo de compilação às 15:40:17.
+15:40:17.4017 - [INF] Estabelecendo conexão com o servidor [12] e ambiente [P1216]...
+15:40:21.4021 - [WAR] 
+Compilando arquivo Myprinter.prw...
+15:40:21.4021 - [INF] 
+15:40:21.4021 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\Relatorios\Myprinter.prw ok.
+15:40:21.4021 - [INF] ...Compilação [Ok]
+15:52:49.5249 - [INF] 
+Iniciando processo de compilação às 15:52:49.
+15:52:49.5249 - [INF] Estabelecendo conexão com o servidor [12] e ambiente [P1216]...
+15:52:53.5253 - [WAR] 
+Compilando arquivo Myprinter.prw...
+15:52:53.5253 - [INF] 
+15:52:53.5253 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\Relatorios\Myprinter.prw ok.
+15:52:53.5253 - [INF] ...Compilação [Ok]
+15:55:49.5549 - [INF] 
+Iniciando processo de compilação às 15:55:49.
+15:55:49.5549 - [INF] Estabelecendo conexão com o servidor [12] e ambiente [P1216]...
+15:55:51.5551 - [WAR] 
+Compilando arquivo Myprinter.prw...
+15:55:51.5551 - [INF] 
+15:55:51.5551 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\Relatorios\Myprinter.prw ok.
+15:55:51.5551 - [INF] ...Compilação [Ok]
+16:04:37.437 - [INF] Reconectando servidor 12....
+16:04:38.438 - [ERR] Error ao tentar conectar no servidor. Servidor pode estar off-line.
+16:12:06.126 - [INF] Iniciando ambiente...
+16:12:06.126 - [INF] Servidores Adicionados:
+16:12:06.126 - [INF] Conectando...
+16:12:06.126 - [INF]  - 12 [ADVPL]
+16:12:07.127 - [WAR] Erro ao conectar o servidor 12
+16:12:07.127 - [WAR] Verifique se o servidor selecionado está ativo.
+16:12:07.127 - [INF] Fim da inicialização
+16:12:46.1246 - [INF] 
+Iniciando processo de compilação às 16:12:46.
+16:12:46.1246 - [INF] Estabelecendo conexão com o servidor [12] e ambiente [P1216]...
+16:12:47.1247 - [WAR] 
+Compilando arquivo Myprinter.prw...
+16:12:47.1247 - [INF] 
+16:12:47.1247 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\Relatorios\Myprinter.prw ok.
+16:12:47.1247 - [INF] ...Compilação [Ok]
+16:42:21.4221 - [INF] 
+Iniciando processo de compilação às 16:42:21.
+16:42:21.4221 - [INF] Estabelecendo conexão com o servidor [12] e ambiente [P1216]...
+16:42:26.4226 - [WAR] 
+Compilando arquivo Myprinter.prw...
+16:42:27.4227 - [INF] 
+16:42:27.4227 - [ERR]  Error C2051  LOCAL declaration follows executable statement
+16:42:27.4227 - [ERR] ADVPL Preprocessor.Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\Relatorios\Myprinter.prw with error. Exitecode equal to 1
+16:42:44.4244 - [INF] 
+Iniciando processo de compilação às 16:42:44.
+16:42:44.4244 - [INF] Estabelecendo conexão com o servidor [12] e ambiente [P1216]...
+16:42:46.4246 - [WAR] 
+Compilando arquivo Myprinter.prw...
+16:42:46.4246 - [INF] 
+16:42:46.4246 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\Relatorios\Myprinter.prw ok.
+16:42:46.4246 - [INF] ...Compilação [Ok]
+17:06:23.623 - [INF] 
+Iniciando processo de compilação às 17:06:23.
+17:06:23.623 - [INF] Estabelecendo conexão com o servidor [12] e ambiente [P1216]...
+17:06:26.626 - [WAR] 
+Compilando arquivo FWPrintSetup.prw...
+17:06:26.626 - [INF] 
+17:06:26.626 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\Relatorios\FWPrintSetup.prw ok.
+17:06:26.626 - [ERR] 
+17:06:26.626 - [ERR] Cannot overwrite TOTVS programs (FWPrintSetup.prw)
+17:06:53.653 - [INF] 
+Iniciando processo de compilação às 17:06:53.
+17:06:53.653 - [INF] Estabelecendo conexão com o servidor [12] e ambiente [P1216]...
+17:06:54.654 - [WAR] 
+Compilando arquivo MyPrintSetup.prw...
+17:06:54.654 - [INF] 
+17:06:54.654 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\Relatorios\MyPrintSetup.prw ok.
+17:06:54.654 - [WAR] 
+MYPRINTSETUP.PRW(5) warning W0003 Local variable OSETUP never used
+MYPRINTSETUP.PRW(5) warning W0003 Local variable PD_ISTOTVSPRINTER never used
+17:06:54.654 - [INF] ...Compilação [Ok]
+17:13:09.139 - [INF] 
+Iniciando processo de compilação às 17:13:09.
+17:13:09.139 - [INF] Estabelecendo conexão com o servidor [12] e ambiente [P1216]...
+17:13:31.1331 - [WAR] 
+Compilando arquivo Myprinter.prw...
+17:13:31.1331 - [INF] 
+17:13:31.1331 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\Relatorios\Myprinter.prw ok.
+17:13:31.1331 - [INF] ...Compilação [Ok]
+08:48:34.4834 - [INF] Iniciando ambiente...
+08:48:34.4834 - [INF] Servidores Adicionados:
+08:48:34.4834 - [INF] Conectando...
+08:48:35.4835 - [INF]  - 12 [ADVPL]
+08:48:35.4835 - [INF] -> Servidor Ativo: 12
+08:48:35.4835 - [INF] -> Ambiente Ativo: P1216
+08:48:35.4835 - [INF] Fim da inicialização
+10:18:47.1847 - [INF] Total de arquivos válidos enviados para atualização: 0
+10:19:27.1927 - [INF] Total de arquivos válidos enviados para atualização: 1
+10:19:27.1927 - [INF] Estabelecendo conexão com o servidor [12] e ambiente [P1216]...
+10:19:38.1938 - [INF] Total de arquivos válidos enviados para atualização: 1
+10:19:38.1938 - [INF] Estabelecendo conexão com o servidor [12] e ambiente [P1216]...
+10:19:48.1948 - [INF] - E:\Users\rodrigo.gsoares\Downloads\PACOTE_DE_CORRECAO_457808_DSERFINP-1852_12.1.16\457808_DSERFINP-1852_12.1.16_TTTP120.PTM: Aplicação do pacote de atualização efetuado com sucesso
+10:45:29.4529 - [INF] 
+Iniciando processo de compilação às 10:45:29.
+10:45:29.4529 - [INF] Estabelecendo conexão com o servidor [12] e ambiente [P1216]...
+10:45:52.4552 - [ERR] Error start builder: IOException.
+10:45:52.4552 - [ERR] Connection reset
+10:45:52.4552 - [ERR] Não foi possivel obter acesso ao RPO.
+10:45:52.4552 - [WAR] Motivos possíveis:
+10:45:52.4552 - [WAR] - RPO encontra-se em uso por terceiros
+10:45:52.4552 - [WAR] - Privilégios de acesso
+10:45:52.4552 - [WAR] - Servidor deixou de responder
+10:45:52.4552 - [WAR] - Ambiente inexistente
+10:46:05.465 - [INF] Reconectando servidor 12....
+10:46:05.465 - [INF] Servidor Reconectado. 
+10:46:05.465 - [INF] 
+Iniciando processo de compilação às 10:46:05.
+10:46:05.465 - [INF] Estabelecendo conexão com o servidor [12] e ambiente [P1216]...
+10:46:06.466 - [WAR] 
+Compilando arquivo MyPrintSetup.prw...
+10:46:06.466 - [INF] 
+10:46:06.466 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\Relatorios\MyPrintSetup.prw ok.
+10:46:06.466 - [WAR] 
+MYPRINTSETUP.PRW(8) warning W0003 Local variable ODANFE never used
+MYPRINTSETUP.PRW(17) warning W0003 Local variable NPRINTTYPE never used
+MYPRINTSETUP.PRW(18) warning W0003 Local variable NORIENTATION never used
+MYPRINTSETUP.PRW(19) warning W0003 Local variable NDESTINATION never used
+10:46:06.466 - [INF] ...Compilação [Ok]
+10:46:59.4659 - [INF] 
+Iniciando processo de compilação às 10:46:59.
+10:46:59.4659 - [INF] Estabelecendo conexão com o servidor [12] e ambiente [P1216]...
+10:47:00.470 - [WAR] 
+Compilando arquivo MyPrintSetup.prw...
+10:47:00.470 - [INF] 
+10:47:00.470 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\Relatorios\MyPrintSetup.prw ok.
+10:47:00.470 - [WAR] 
+MYPRINTSETUP.PRW(8) warning W0003 Local variable ODANFE never used
+10:47:00.470 - [INF] ...Compilação [Ok]
+10:57:52.5752 - [INF] Iniciando TOTVS Application
+11:05:43.543 - [INF] 
+Iniciando processo de compilação às 11:05:43.
+11:05:43.543 - [INF] Estabelecendo conexão com o servidor [12] e ambiente [P1216]...
+11:05:48.548 - [WAR] 
+Compilando arquivo MyPrintSetup.prw...
+11:05:48.548 - [INF] 
+11:05:48.548 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\Relatorios\MyPrintSetup.prw ok.
+11:05:48.548 - [WAR] 
+MYPRINTSETUP.PRW(8) warning W0003 Local variable ODANFE never used
+11:05:48.548 - [INF] ...Compilação [Ok]
+11:06:12.612 - [INF] 
+Iniciando processo de compilação às 11:06:12.
+11:06:12.612 - [INF] Estabelecendo conexão com o servidor [12] e ambiente [P1216]...
+11:06:14.614 - [WAR] 
+Compilando arquivo MyPrintSetup.prw...
+11:06:14.614 - [INF] 
+11:06:14.614 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\Relatorios\MyPrintSetup.prw ok.
+11:06:14.614 - [WAR] 
+MYPRINTSETUP.PRW(8) warning W0003 Local variable ODANFE never used
+11:06:14.614 - [INF] ...Compilação [Ok]
+11:06:47.647 - [INF] 
+Iniciando processo de compilação às 11:06:47.
+11:06:47.647 - [INF] Estabelecendo conexão com o servidor [12] e ambiente [P1216]...
+11:06:48.648 - [WAR] 
+Compilando arquivo MyPrintSetup.prw...
+11:06:49.649 - [INF] 
+11:06:49.649 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\Relatorios\MyPrintSetup.prw ok.
+11:06:49.649 - [WAR] 
+MYPRINTSETUP.PRW(8) warning W0003 Local variable ODANFE never used
+11:06:49.649 - [INF] ...Compilação [Ok]
+11:12:02.122 - [INF] Iniciando TOTVS Application
+11:19:24.1924 - [INF] 
+Iniciando processo de compilação às 11:19:24.
+11:19:24.1924 - [INF] Estabelecendo conexão com o servidor [12] e ambiente [P1216]...
+11:19:26.1926 - [WAR] 
+Compilando arquivo MyPrintSetup.prw...
+11:19:26.1926 - [INF] 
+11:19:26.1926 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\Relatorios\MyPrintSetup.prw ok.
+11:19:26.1926 - [WAR] 
+MYPRINTSETUP.PRW(8) warning W0003 Local variable ODANFE never used
+11:19:26.1926 - [INF] ...Compilação [Ok]
+11:24:03.243 - [INF] Iniciando TOTVS Application
+11:36:21.3621 - [INF] 
+Iniciando processo de compilação às 11:36:21.
+11:36:21.3621 - [INF] Estabelecendo conexão com o servidor [12] e ambiente [P1216]...
+11:36:26.3626 - [WAR] 
+Compilando arquivo MyPrintSetup.prw...
+11:36:26.3626 - [INF] 
+11:36:26.3626 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\Relatorios\MyPrintSetup.prw ok.
+11:36:26.3626 - [WAR] 
+MYPRINTSETUP.PRW(8) warning W0003 Local variable ODANFE never used
+11:36:26.3626 - [INF] ...Compilação [Ok]
+11:37:07.377 - [INF] 
+Iniciando processo de compilação às 11:37:07.
+11:37:07.377 - [INF] Estabelecendo conexão com o servidor [12] e ambiente [P1216]...
+11:37:09.379 - [WAR] 
+Compilando arquivo MyPrintSetup.prw...
+11:37:09.379 - [INF] 
+11:37:09.379 - [INF] ADVPL Preprocessor: Precompilation of file C:\Users\rodrigo.gsoares\Documents\TDS\Workspace\Novo_Projeto\Relatorios\MyPrintSetup.prw ok.
+11:37:09.379 - [WAR] 
+MYPRINTSETUP.PRW(8) warning W0003 Local variable ODANFE never used
+11:37:09.379 - [INF] ...Compilação [Ok]
+11:44:10.4410 - [INF] Iniciando TOTVS Application
+11:50:10.5010 - [INF] Iniciando ambiente...
+11:50:10.5010 - [INF] Servidores Adicionados:
+11:50:10.5010 - [INF] Conectando...
+11:50:10.5010 - [INF]  - 12 [ADVPL]
+11:50:11.5011 - [WAR] Erro ao conectar o servidor 12
+11:50:11.5011 - [WAR] Verifique se o servidor selecionado está ativo.
+11:50:11.5011 - [INF] Fim da inicialização
